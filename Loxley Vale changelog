@@ -7,7 +7,12 @@ Loxley Vale changelog
 ============== RELEASED ==============
 
 Version RC v9800.06
-- I DON'T KNOW......
+Note: All the door opening will be done by Trigger Boxes soon.
+- Changed Lighting.
+- Changed how some doors open with the new Trigger Box Logic.
+- Changed the random wooden house walls, floor and roof to the new Wooden Planks material.
+- Changed the random wooden house frame to WoodFloor material.
+- Removed Previous versions board due to too many Text Boxes.
 
 Version RC v9641.53
 - Added Dark Green house, Yellow house, Cobblestone car and new spawnpoint.
