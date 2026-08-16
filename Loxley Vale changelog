@@ -2,9 +2,16 @@ Loxley Vale changelog
 
 ============== NOT RELEASED ==============
 
-
+Version Release 10275.00
+- Added 3 new houses.
+- Added more spawnpoints.
+- More details will be shared as development is being completed.
 
 ============== RELEASED ==============
+
+Version Release 10017.74
+- Painted inside of house walls white if they had a brick outside.
+- Fixed lighting issue that occurred in Version RC 9800.06 and Version Release 10000.00.
 
 Version Release 10000.00
 FULL RELEASE
