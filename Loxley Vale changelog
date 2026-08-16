@@ -2,12 +2,17 @@ Loxley Vale changelog
 
 ============== NOT RELEASED ==============
 
-Version Release 10275.00
-- Added 3 new houses.
-- Added more spawnpoints.
-- More details will be shared as development is being completed.
+
 
 ============== RELEASED ==============
+
+Version Release 12854.57
+Note: sometimes the day/night cycle can be bugged from joining, this also includes the street lights, this bug seems unfixable for now.
+- Added 3 new houses.
+- Added more spawnpoints.
+- Added Day/Night cycle.
+- Added lights that turn on at night and turn off at day.
+- Fixed Ground peeling issue.
 
 Version Release 10017.74
 - Painted inside of house walls white if they had a brick outside.
