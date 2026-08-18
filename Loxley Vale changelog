@@ -6,18 +6,18 @@ Loxley Vale changelog
 
 ============== RELEASED ==============
 
-Version Release 12301.95
+Version Release 12301.95 (Patch)
 Note: Game is temporarily receiving smaller updates due to a successor being developed.
 - Remove under construction building
 
-Version Release 12899.11
+Version Release 12899.11 (Patch)
 - Fixed Music pitch.
 - Fixed Gravity.
 
-Version Release 12895.05
+Version Release 12895.05 (Minor)
 - Added relaxing music.
 
-Version Release 12854.57
+Version Release 12854.57 (Minor)
 Note: sometimes the day/night cycle can be bugged from joining, this also includes the street lights, this bug seems unfixable for now.
 - Added 3 new houses.
 - Added more spawnpoints.
@@ -25,11 +25,11 @@ Note: sometimes the day/night cycle can be bugged from joining, this also includ
 - Added lights that turn on at night and turn off at day.
 - Fixed Ground peeling issue.
 
-Version Release 10017.74
+Version Release 10017.74 (Minor)
 - Painted inside of house walls white if they had a brick outside.
 - Fixed lighting issue that occurred in Version RC 9800.06 and Version Release 10000.00.
 
-Version Release 10000.00
+Version Release 10000.00 (Major)
 FULL RELEASE
 - Added new houses.
 - Added more spawnpoints.
@@ -42,7 +42,7 @@ FULL RELEASE
 - Changed some cars.
 - Removed in-game changelog.
 
-Version RC 9800.06
+Version RC 9800.06 (Minor)
 Note: All the door opening will be done by Trigger Boxes soon.
 - Changed Lighting.
 - Changed how some doors open with the new Trigger Box Logic.
@@ -50,8 +50,8 @@ Note: All the door opening will be done by Trigger Boxes soon.
 - Changed the random wooden house frame to WoodFloor material.
 - Removed Previous versions board due to too many Text Boxes.
 
-Version RC 9641.53
+Version RC 9641.53 (Minor)
 - Added Dark Green house, Yellow house, Cobblestone car and new spawnpoint.
 
-Version RC 9076.11
+Version RC 9076.11 (Patch)
 - Fixed a car placement.
