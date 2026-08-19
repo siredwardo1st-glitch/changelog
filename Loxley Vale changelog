@@ -2,14 +2,17 @@ Loxley Vale changelog
 
 ============== NOT RELEASED ==============
 
-
+Version Release 12915.84 (Minor)
+A bit of a bigger update than expected, we removed the water because of lag but decided to add something in the process.
+- Added flamethrower (can be found in the wooden plane area).
+- Removed Water logic due to performance issues.
 
 ============== RELEASED ==============
 
-Version Release 12302.18 (Patch)
+Version Release 12902.18 (Patch)
 - Fixed window transparency issue with the 4th house on main road.
 
-Version Release 12301.95 (Patch)
+Version Release 12901.95 (Patch)
 Note: Game is temporarily receiving smaller updates due to a successor being developed.
 - Remove under construction building
 
