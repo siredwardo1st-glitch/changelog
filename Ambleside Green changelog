@@ -6,11 +6,13 @@ Ambleside Green changelog
 
 ============== RELEASED ==============
 
-0.4-beta
+0.4
 - Added Day/Night cycle.
 - Added Relaxing music.
 - Added a new car type.
 - Replaced Water logic with 3/4 blue blocks.
+- Added 6 new houses.
+- Removed price on the Car + Trailer thing.
 
 0.3.67
 - Added roadworks & sign advertisement on Ambleside Green road.
