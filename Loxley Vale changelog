@@ -2,12 +2,14 @@ Loxley Vale changelog
 
 ============== NOT RELEASED ==============
 
-Version Release 14065.06 (Minor)
-- Added more of the 3/4 block water.
-- Added [ INSERT VOTE WINNING FEATURE HERE ].
-- Removed the Red, Blue, Green and Yellow houses due to no planned interior.
+
 
 ============== RELEASED ==============
+
+Version Release 14065.06 (Minor)
+- Added more of the 3/4 block water.
+- Added abandoned hamlet area.
+- Removed the Red, Blue, Green and Yellow houses due to no planned interior.
 
 Version Release 12915.84 (Minor)
 A bit of a bigger update than expected, we removed the water because of lag but decided to add something in the process.
