@@ -2,17 +2,20 @@ Ambleside Green changelog
 
 ============== NOT RELEASED ==============
 
-
+0.4.30 (Minor)
+- Repair Number 2 house on Ambleside Green Road.
+- Added a new car type.
+- Expanded map a bit more to fit another under construction housing estate.
 
 ============== RELEASED ==============
 
-0.4.18
+0.4.18 (Patch)
 - Change Music.
 
-0.4.17
+0.4.17 (Minor)
 - Added under construction road.
 
-0.4
+0.4 (Major)
 - Added Day/Night cycle.
 - Added Relaxing music.
 - Added a new car type.
@@ -20,16 +23,16 @@ Ambleside Green changelog
 - Added 6 new houses.
 - Removed price on the Car + Trailer thing.
 
-0.3.67
+0.3.67 (Minor)
 - Added roadworks & sign advertisement on Ambleside Green road.
 - Changed AeroFlux opening times.
 
-0.3.62
+0.3.62 (Minor)
 Version numbers will now go by M.m.pp instead of Alpha vXXX for easier identification.
 - Expanded car dealership.
 - Added Orange & Dark Green pickup truck.
 - Added roadmap.
 
-Alpha v105
+Alpha v105 (Minor
 - Added Wrapping paper house.
 - Changed pickup truck price to free.
