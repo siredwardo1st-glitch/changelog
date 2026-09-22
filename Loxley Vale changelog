@@ -6,6 +6,10 @@ Loxley Vale changelog
 
 ============== RELEASED ==============
 
+Version Release 14269.01 (Patch)
+Today, we've released another hotfix update for the weekly release schedule, next week on the 29th, we'll be releasing a minor update adding a new resident area, now lets get to the 14269.01 patch notes.
+- Fixed a door that wouldn't open due to forgotten logic.
+
 Version Release 14268.11 (Patch)
 - Fixed the lights inside 2 houses.
 
